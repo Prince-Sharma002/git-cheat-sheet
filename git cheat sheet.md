@@ -5,7 +5,7 @@
 cmdkey /delete:git:https://github.com
 ```
 
-###
+### Check Git Config for Username
 ```
- Check Git Config for Username
+git config --global user.name
 ```
