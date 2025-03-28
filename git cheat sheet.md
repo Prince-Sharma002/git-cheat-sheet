@@ -14,3 +14,8 @@ git config --global user.name
 ```
 git config --global user.email "your-email@example.com"
 ```
+
+###  Check GitHub CLI (gh) Login Status
+```
+gh auth status
+```
