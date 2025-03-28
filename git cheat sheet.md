@@ -9,3 +9,8 @@ cmdkey /delete:git:https://github.com
 ```
 git config --global user.name
 ```
+
+### Set a New Email ID in Git
+```
+git config --global user.email "your-email@example.com"
+```
